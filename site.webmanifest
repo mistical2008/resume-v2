@@ -1,11 +1,8 @@
----
-permalink: site.webmanifest
----
 {
-    "lang": "{{ meta.lang }}",
+    "lang": "ru",
     "dir": "ltr",
-    "name": "Resume of {{ author.name }}",
-    "short_name": "{{ author.name }}",
+    "name": "Resume of Евгений Талько",
+    "short_name": "Евгений Талько",
     "icons": [
         {
             "src": "/assets/images/favicon/android-chrome-192x192.png",
@@ -18,8 +15,8 @@ permalink: site.webmanifest
             "type": "image/png"
         }
     ],
-    "theme_color": "{{ meta.colors.primary or "#1a1a1a" }}",
-    "background_color": "{{ meta.colors.primary or "#1a1a1a" }}",
+    "theme_color": "#005b96",
+    "background_color": "#005b96",
     "start_url": "/index.html",
     "display": "standalone",
     "orientation": "natural"
