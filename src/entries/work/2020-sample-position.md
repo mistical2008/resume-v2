@@ -1,9 +1,7 @@
 ---
-title: Senior Front-End Developer
-organization: Netlify
-organizationUrl: https://www.netlify.com
-location: San Francisco, CA
-start: 2020-03-14
+title: UI/UX-дизайнер фрилансер
+start: 2016-01-14
+end: 2018-10-01
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+За время работы в качестве фрилансера доводилось разрабатывать интерфейсы как для лендингов, так и для интернет-магазинов, сервисов в сфере услуг. Помимо дизайна сайтов было несколько заказов на дизайн мобильных приложений. Учитывая нарастающий интерес к web-технологиям дизайном не ограничилось. Я также успел поработать в качестве администратора настройки серверов для облачного майнинга, написал `nodejs` модуль для автоматизации подготовки текстов для объявлений Авито с последующей генерацией `xml` для личного кабинета, адаптировал Telegram-бота для отправки сообщений на сайт под нужды заказчика и автоматизировал пакетную обработку фотографий с помощью `imagemagick`.
