@@ -1,4 +1,5 @@
 # Resume
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1333db85-5b4b-4b52-a39c-0db6e06d7167/deploy-status)](https://app.netlify.com/sites/evgeniy-talko-resume/deploys)
 
 An online résumé. [Demo Site](https://demo-resume.netlify.app)  
 
@@ -160,8 +161,6 @@ Delete the demo files in there and create your own. The text should describe you
 </table>
 
 ### 4. Github Repositories
-
-If you want, you can include the five most starred repositories from your Github account. This will fetch the current data at build time, at most once a day. To do this, edit `src/data/repositories.js` and change the `YOUR_GITHUB_USERNAME` var to your Github username.
 
 ### 5. Custom Content
 
