@@ -1,52 +1,51 @@
 {
     "name": "Евгений Талько",
     "occupation": "Frontend разработчик",
-    "location": "Ухта, РФ",
+    "location": "Belgrade, RS",
     "avatar": "avatar.jpg",
-    "pronouns": "M",
+    "pronouns": "М",
     "email": "etalko@gmail.com",
-    "telephone": "+7 922 08 233 14",
+    "telephone": "https://t.me/mistical2008",
     "website": "",
     "skills": [
+
         "HTML",
         "CSS",
-        "Javascript, ES6, ES7",
-        "Node.js",
-        "TypeScript",
-        "UI Design",
-        "Figma",
-        "React",
-        "Angular",
-        "Vue",
-        "Next.js",
-        "UmiJS",
-        "Preact",
-        "Redux, Mobx, Teaful",
-        "React-leaflet",
-        "Leaflet.js",
-        "Cesium.js",
-        "Strapi.js",
-        "Nest.js",
-        "Настройка Webpack, Rollup, Vite",
-        "PostCSS, Tailwindcss",
-        "REST API, fetch, axios",
-        "GraphQL, Apollo",
-        "Websockets",
-        "TDD с jest и Cypress",
+        "Javascript/Node.js",
+        "Static typing: (TypeScript, Rescript)",
+        "Common UI-frameworks/libs (React, Preact, Vue, Angular)",
+        "State management: (Effector, Redux, Mobx)",
+        "Data visualisation (Cesium.js, ECharts, Leaflet)"
+        "REST API",
+        "Openapi (API-client generation)",
+        "Realtime data (Websockets)",
+        "TDD (jest/vitest, puppeteer/cypress)",
+        "Build tools configuration (Webpack, Rollup, Vite)",
+        "CI/CD configuration (Docker, Gitlab)",
         "Git, Github, Gitlab",
-        "настройка Docker и Gitlab CI/CD",
-        "Auth0",
-        "Уверенный cli user",
-        "Умею выходить из Vim :)"
+        "PostCSS, Tailwindcss",
+        "GraphQL, Apollo",
+        "Обычный linux пользователь",
+        "Знаю как выйти из Vim :)",
+        "Научился жить с Emacs :)",
+        "UI Design/Figma",
     ],
     "languages": [
         {
             "name": "English",
-            "level": "Переписка, чтение документации, просмотр видеоконтента"
+            "level": "переписка, базовое общение, чтение документации, просмотр видеоконтента"
         },
         {
             "name": "Русский",
-            "level": "Родной"
+            "level": "свободный"
+        },
+        {
+            "name": "Ukrainian",
+            "level": "средний"
+        },
+        {
+            "name": "Serbian",
+            "level": "средний"
         }
     ],
     "social": [
