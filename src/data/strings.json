@@ -7,7 +7,7 @@
     },
     "labels": {
         "email": "Написать на эл. почту",
-        "telephone": "Telegram"
+        "telephone": "Telegram",
         "print": "Распечатать резюме",
         "present": "Настоящее время",
         "lastUpdated": "Последнее обновление"

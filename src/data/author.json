@@ -15,7 +15,7 @@
         "Static typing: (TypeScript, Rescript)",
         "Common UI-frameworks/libs (React, Preact, Vue, Angular)",
         "State management: (Effector, Redux, Mobx)",
-        "Data visualisation (Cesium.js, ECharts, Leaflet)"
+        "Data visualisation (Cesium.js, ECharts, Leaflet)",
         "REST API",
         "Openapi (API-client generation)",
         "Realtime data (Websockets)",
@@ -28,7 +28,7 @@
         "Обычный linux пользователь",
         "Знаю как выйти из Vim :)",
         "Научился жить с Emacs :)",
-        "UI Design/Figma",
+        "UI Design/Figma"
     ],
     "languages": [
         {
